@@ -1,0 +1,5 @@
+{
+    "chat.disableAIFeatures": true,
+    "chat.extensionUnification.enabled": false,
+    "remote.autoForwardPorts": false,
+}
